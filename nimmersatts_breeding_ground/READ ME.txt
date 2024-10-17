@@ -1,0 +1,5 @@
+{x = 33216, y = 31126, z = 14}
+
+/tp 33216, 31126, 14
+
+Remember to add item: 44563 to: {x = 33187, y = 31190, z = 7} and set up the entrance script "onstepin"
